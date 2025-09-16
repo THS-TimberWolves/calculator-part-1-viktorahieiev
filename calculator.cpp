@@ -42,4 +42,6 @@ int main(){
     {
         std::cout << "Invalid value.";
     }   
+
+    return 0;
 }
